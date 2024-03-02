@@ -10,7 +10,7 @@ The most simple Firebase System template using Firebase v.9.10.0.
 
 - Simple login system.
 - Simple login page design.
-- Efficiently handles requests.
+- Efficiently handles post requests.
 - Simple and understandable code structure.
 
 ## Notes
