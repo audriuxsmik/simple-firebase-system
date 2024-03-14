@@ -17,7 +17,7 @@ The most simple Firebase System template using Firebase v.9.10.0.
 
 ## Notes
 
-- Recommended using newest firebase version.
+- Recommended to use the newest firebase version.
 
 ## Installation
 
