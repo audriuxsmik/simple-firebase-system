@@ -6,6 +6,8 @@
 
 The most simple Firebase System template using Firebase v.9.10.0.
 
+![alt text](https://raw.githubusercontent.com/audriuxsmik/simple-firebase-system/main/showcase.png)
+
 ## Features
 
 - Simple login system.
