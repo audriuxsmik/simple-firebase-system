@@ -1,6 +1,6 @@
 firebase.auth().onAuthStateChanged((user)=>{
     if(!user){
-        location.replace("https://auth.cyplionk.xyz")
+        location.replace("") //your login page
       
     }else{
         document.getElementById("user").innerHTML = "Hello, "+user.email
